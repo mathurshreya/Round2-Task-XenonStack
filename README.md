@@ -36,13 +36,11 @@ Starting step by step:
 ![image](https://user-images.githubusercontent.com/88607017/182234535-61c8b360-b6f8-4f31-9c80-06cd2543506f.png)
 
 
-
-![image](https://user-images.githubusercontent.com/88607017/182234254-03c5760e-639e-4fae-aa13-9563d6260595.png)
-
-
 ![image](https://user-images.githubusercontent.com/88607017/182234353-f850c023-91be-4fcb-84c4-9cee2fb505ec.png)
 
 
 ![image](https://user-images.githubusercontent.com/88607017/182234432-7ac4fbe3-46db-4d06-b454-3d1b7e51ba11.png)
 
 
+
+![image](https://user-images.githubusercontent.com/88607017/182234254-03c5760e-639e-4fae-aa13-9563d6260595.png)
