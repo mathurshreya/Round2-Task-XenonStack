@@ -6,7 +6,7 @@ For frontend and design HTML,CSS and JavaScript is used.
 
 Backend done with php.
 
-Database connection done with phpmyadmin using Xampp server.
+Database connection done with MySql phpmyadmin using Xampp server.
 
 Database named as login
 
